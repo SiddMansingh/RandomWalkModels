@@ -1,5 +1,3 @@
----
----
 # Beginning of Website Making
 ## Exact Diagonalization Prerequisites
 ### Creation of Basis States and Lin Tables for easy reference
